@@ -1,0 +1,67 @@
+
+	Variables
+	Constant
+	Keywords
+	Loop
+	Decision
+	.
+	.
+	.
+	
+	1. Analyse
+	2. Design	(POP - Algorithm)
+	3. Coding
+	4. Testing
+	5. Maintenance
+	
+	xp_req = [3, 1, 4, 6, 2]
+	xp_win = [9, 4, 12, 15, 5]
+	
+	init_xp	=	1
+	
+	k = 3
+	
+	To Find: The maximum xp that can be
+			 earned.
+	
+	UML	-	Unified Modelling Language
+			Class diagram	(generic)
+			Object diagram (specialized)
+			Use Case
+			
+	
+	Multi-paradigm
+	
+	factorial(int n)
+	
+	n = 1 - 18
+	
+	Refactoring
+	DRY	-	Don't Repeat Yourself
+	KISS - Keep It Simple Stupid
+	
+	Routing
+	
+	M: Model 		-	Data (OOP)
+	V: View			-	Page (Markup)
+	C: Controller	-	Request Handler
+						(OOP)
+	
+	M: Model		-	Data	(OOP)
+	V: View			-	Request Handler
+						(OOP/POP)
+	T: Template		-	Page (Markup)
+	
+	
+	Agile Methodology (Scrum)
+						(Sprint)
+						
+	23 design patterns
+	
+	
+	
+	
+	
+	
+			 
+			 
